@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/338854277?s=180&v=4" alt="ATAK logo" width="120" />
+# ROTA
 
-# ATAK
+### Rekabet Odaklı Teknoloji ve Araştırma Kulübü
 
 **Goal-driven technical teams at Atatürk University.**
 
@@ -12,9 +12,9 @@
 
 ---
 
-## About ATAK
+## About ROTA
 
-ATAK is a student-led technical community at **Atatürk University** built around one principle: **the goal comes first**.
+ROTA is a student-led technical community at **Atatürk University** built around one principle: **the goal comes first**.
 
 Instead of organizing people into permanent technical departments, we form dynamic teams around concrete goals — a competition, a technical problem, a product, a tool, a prototype, or another measurable outcome.
 
@@ -44,29 +44,18 @@ These are **capability areas, not permanent departments**. Teams are formed arou
 
 ## Engineering culture
 
-We value:
+We value **ownership, clarity, collaboration, quality, learning by doing, and continuity**.
 
-- **Ownership** — take responsibility for the work you commit to.
-- **Clarity** — define the goal, expected output and responsibilities.
-- **Collaboration** — share knowledge and make the team stronger.
-- **Quality** — prefer maintainable, reviewable and documented work.
-- **Learning by doing** — use real problems and projects as the learning environment.
-- **Continuity** — leave documentation and context so the next team can continue.
-
-## Repositories
-
-Public repositories are used for projects and resources that are appropriate to share openly. Internal or in-progress work may remain private until it is ready for release.
-
-Each repository is expected to describe its purpose, status, maintainers and contribution process clearly.
+Public repositories are used for projects and resources that are appropriate to share openly. Internal, competition-sensitive, or in-progress work may remain private until it is ready for release.
 
 <details>
 <summary><strong>Türkçe</strong></summary>
 
-ATAK, Atatürk Üniversitesi'nde öğrencileri **somut teknik hedefler** etrafında bir araya getiren öğrenci odaklı bir teknik topluluktur.
+**ROTA — Rekabet Odaklı Teknoloji ve Araştırma Kulübü**, Atatürk Üniversitesi'nde öğrencileri somut teknik hedefler etrafında bir araya getiren öğrenci odaklı bir teknik topluluktur.
 
 Kalıcı teknik departmanlar yerine; yarışma, proje, problem veya ölçülebilir bir çıktı etrafında dinamik çalışma takımları oluştururuz. Öğrenmeyi uygulamaya, uygulamayı sonuca ve elde edilen deneyimi sonraki çalışmalara aktarılabilir bilgiye dönüştürmeyi hedefleriz.
 
-**Çalışma modelimiz:** Hedef → Takım → Öğrenme ve Hazırlık → Üretim veya Yarışma → Değerlendirme → Bilgi Aktarımı
+**Çalışma modelimiz:** Hedef → Takım → Öğrenme ve Hazırlık → Üretim veya Yarışma → Değerlendirme → Bilgi ve Deneyim Aktarımı
 
 </details>
 
@@ -74,6 +63,6 @@ Kalıcı teknik departmanlar yerine; yarışma, proje, problem veya ölçülebil
 
 <div align="center">
 
-**ATAK — Atatürk University**
+**ROTA · Atatürk University**
 
 </div>
